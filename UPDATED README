@@ -1,0 +1,39 @@
+# ✨ Mira – AI Chat Assistant 🤖  
+[![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
+[![Built with Node.js](https://img.shields.io/badge/Backend-Node.js-43853D?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Framework-Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/)
+[![Status](https://img.shields.io/badge/Project%20Status-Active-brightgreen)](https://github.com/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+---
+
+> 🌟 **Meet Mira — your friendly AI Chat Assistant!**  
+> A simple, interactive chatbot built with 💙 **React.js** and ⚡ **Node.js**, inspired by AI chat companions like ChatGPT.
+
+---
+
+## 🚀 Features
+✅ Clean and responsive chatbot UI  
+💬 Real-time conversation flow between frontend & backend  
+🔗 Seamless communication using Axios  
+🛡️ Secure cross-origin setup with CORS  
+⚙️ Easy-to-understand code structure  
+🌐 Ready for future AI API integration  
+
+---
+
+## 🧠 Tech Stack
+
+| Area | Technologies Used |
+|------|-------------------|
+| 🎨 Frontend | React.js, HTML, CSS, Axios |
+| ⚙️ Backend | Node.js, Express.js, CORS |
+| 🗃️ Database (optional) | MongoDB (planned) |
+
+---
+
+## 🧩 Project Setup
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/<your-username>/Mira-AI-Chat-Assistant.git
