@@ -8,7 +8,7 @@
 ---
 
 > 🌟 **Meet Mira — your friendly AI Chat Assistant!**  
-> A simple, interactive chatbot built with 💙 **React.js** and ⚡ **Node.js**, inspired by AI chat companions like ChatGPT.
+> A simple, interactive chatbot built with **React.js** and **Node.js**, inspired by AI chat companions like ChatGPT.
 
 ---
 
